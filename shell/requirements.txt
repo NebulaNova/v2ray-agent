@@ -1,0 +1,4 @@
+diskcache
+openai
+regex
+tqdm
